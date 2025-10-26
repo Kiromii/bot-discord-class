@@ -1,0 +1,15 @@
+{
+  "senin": ["07:00 - 08:30 | Bahasa Jawa [ Bu Aning ]", "08:30 - 10:00 | Bahasa Indonesia [ Pak Wahyo ]", "10:15 - 11:45 | Matematika [ Bu Ika ]", "11:45 - 13:45 | Kewirausahaan [ Pak Jaka ]", "13:45 - 15:15 | Bahasa Jawa [ Bu Aning ]"],
+  "selasa": ["07:00 - 10:00 | Pendidikan Agama Islam [ Pak Roni ]", "10:15 - 11:45 | Matematika [ Bu Ika ]", "11:45 - 13:45 | Bahasa Inggris [ Bu Wilda ]", "13:45 - 15:15 | PPKN [ Bu Ana ]"],
+  "rabu": ["07:00 - 08:30 | Bahasa Indonesia [ Pak Wahyo ]", "08:30 - 11:45 | Pendidikan Agama Islam [ Pak Roni ]", "11:45 - 13:45 | PPKN [ Bu Ana ]", "13:45 - 15:15 | Bahasa Inggris [ Bu Wilda ]"],
+  "kamis": ["07:00 - 10:00 | Matematika [ Bu Ika ]", "10:15 - 11:45 | Kewirausahaan [ Pak Jaka ]", "11:45 - 13:45 | Bahasa Inggris [ Bu Wilda ]", "13:45 - 15:15 | PPKN [ Bu Ana ]"],
+  "jumat": [
+    "07:00 - 08:20 | Bahasa Jawa [ Bu Aning ]",
+    "08:20 - 09:40 | Bahasa Mandarin [ Septi Laoshi ]",
+    "09:55 - 11:15 | Kewirausahaan [ Pak Jaka ]",
+    "11:15 - 11:15 | Bahasa Indonesia [ Pak Wahyo ]",
+    "13:00 - 13:40 | BK [ Bu Yunita ]",
+    "13:40 - 15:00 | Bahasa Inggris [ Bu Wilda ]"
+  ],
+  "sabtu": []
+}
